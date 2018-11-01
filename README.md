@@ -1,2 +1,2 @@
 # SSR
-sparse separated representations
+Sparse low-rank separated representation models for learning from data
